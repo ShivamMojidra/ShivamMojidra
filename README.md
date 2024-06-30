@@ -21,7 +21,7 @@ Passionate Software Engineer with 1+ year of hands-on experience in Spring Boot,
 
 ## Hands-On Projects
 
-Feel free to check out the hands-on projects I've added in this repository. They cover a range of topics from core Java to advanced Spring Boot applications, and are aimed at providing practical experience and deep understanding of the technologies involved.
+Feel free to check out the hands-on projects I've added in the repositories. They cover a range of topics from core Java to advanced Spring Boot applications, and are aimed at providing practical experience and deep understanding of the technologies involved.
 
 ## Connect with Me
 
